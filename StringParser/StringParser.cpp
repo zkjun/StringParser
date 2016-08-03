@@ -7,7 +7,6 @@
 #include <string>
 #include <vector>
 #include <io.h>
-#include "streamreadwrite1.h"
 using namespace std;
 
 
